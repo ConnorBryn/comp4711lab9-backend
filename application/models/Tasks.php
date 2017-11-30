@@ -1,6 +1,6 @@
 <?php
 
-class Tasks extends XML_Model {
+class Tasks extends CSV_Model {
 
         public function __construct()
         {

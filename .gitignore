@@ -19,6 +19,3 @@ application/logs/*
 
 tmp/*
 .idea
-.log
-
-/tests/testlogs
